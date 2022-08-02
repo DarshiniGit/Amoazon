@@ -5,6 +5,7 @@ class Main {
     String first = "Java";
     String second = "Python";
     String third = "JavaScript";
+    String fourth= "Shell Script";
 
     // print strings
     System.out.println(first);   // print Java
